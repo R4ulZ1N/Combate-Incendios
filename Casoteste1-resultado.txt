@@ -1,0 +1,18 @@
+--- DIA 1 ---
+--- Alocações do dia ---
+Foco F1 - Área antes do combate: 90.00 km²
+  B2: deslocamento=3.00h, tempo útil=9.00h, combate para Foco F1=90.00 km²
+Foco F1 extinto!
+Foco F3 - Área antes do combate: 57.00 km²
+  B2: deslocamento=4.50h, tempo útil=7.50h, combate para Foco F3=57.00 km²
+Foco F3 extinto!
+Foco F2 - Área antes do combate: 84.00 km²
+  B3: deslocamento=5.00h, tempo útil=7.00h, combate para Foco F2=56.00 km²
+  B1: deslocamento=3.00h, tempo útil=9.00h, combate para Foco F2=28.00 km²
+Foco F2 extinto!
+--- Resumo do Dia ---
+Foco F1: Área = 0.00 km² (Crescimento diário: 1.8)
+Foco F2: Área = 0.00 km² (Crescimento diário: 1.2)
+Foco F3: Área = 0.00 km² (Crescimento diário: 1.9)
+--- Simulação Concluída ---
+Todos os focos extintos em 1 dias.
