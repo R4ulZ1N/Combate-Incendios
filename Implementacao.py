@@ -1,3 +1,7 @@
+# Nomes:
+# Raul Araujo Florentino da silva / 15522491
+# Gabriel Antônio Diniz da Silva / 10689345
+
 from heapq import heapify, heappop, heappush
 
 # Classe que representa um grafo com arestas ponderadas
@@ -237,14 +241,19 @@ if __name__ == "__main__":
     c = Combate(G, brigadas, focos)
     c.simular_ate_extincao()
 
-# Exemplo:
-    # 2 3
-    # 10 8 5
-    # 100 87
-    # 1.5 1.25
+# Exemplo de entrada:
+
+    # 2 3 (linha 1: Número de focos, brigadas)
+    # 10 8 5 (linha 2: Capacidade de cada brigada)
+    # 100 87 (linha 3: Área inicial de cada foco)
+    # 1.5 1.25 (linha 4: Fator crescimento de cada Foco)
+
+    #(linhas finais: arestas dos grafos no formato (nó1 nó2 Peso))
     # B1 F1 1
     # B1 F2 2
     # B2 F1 3
     # B2 B3 2
     # B3 F2 4
     # F1 F2 3
+
+    # IMPORTANTE: Apertar ENTER com a linha vazia assim que acabar as arestas dos grafos.
