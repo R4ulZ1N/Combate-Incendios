@@ -1,6 +1,7 @@
 # Nomes:
 # Raul Araujo Florentino da silva / 15522491
 # Gabriel Antônio Diniz da Silva / 10689345
+# Henrique Ribeiro Rodrigues / 15522470
 
 from heapq import heapify, heappop, heappush
 
